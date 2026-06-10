@@ -1,4 +1,4 @@
-# 🌱 OrbitAgro API
+# 🌱 OrbitAgro
 
 > Monitoramento Agrícola via Satélite e IoT — FIAP Global Solution 2026/1
 
