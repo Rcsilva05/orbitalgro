@@ -26,7 +26,7 @@ OrbitAgro antecipa riscos agrícolas combinando imagens de satélite, índice ND
 | 📖 Swagger UI | https://orbitalgro-production.up.railway.app/swagger-ui/index.html |
 | 📄 API Docs | https://orbitalgro-production.up.railway.app/api-docs |
 | 📹 Vídeo de Apresentação | (https://studio.youtube.com/video/enS0IGj6Yos/edit) |
-| 🎯 Vídeo Pitch | youtu.be/Jsow2t7mAt4 |
+| 🎯 Vídeo Pitch | (https://youtu.be/Jsow2t7mAt4 @Otávio Ferreira) |
 | 💻 Repositório | https://github.com/Rcsilva05/orbitalgro |
 
 ---
