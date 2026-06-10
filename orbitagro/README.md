@@ -1,4 +1,4 @@
-# 🌱 OrbitAgro API
+# 🌱 OrbitAgro
 
 > Monitoramento Agrícola via Satélite e IoT — FIAP Global Solution 2026/1
 
@@ -25,8 +25,8 @@ OrbitAgro antecipa riscos agrícolas combinando imagens de satélite, índice ND
 | 🚀 Deploy | https://orbitalgro-production.up.railway.app |
 | 📖 Swagger UI | https://orbitalgro-production.up.railway.app/swagger-ui/index.html |
 | 📄 API Docs | https://orbitalgro-production.up.railway.app/api-docs |
-| 📹 Vídeo de Apresentação | *em breve* |
-| 🎯 Vídeo Pitch | *em breve* |
+| 📹 Vídeo de Apresentação | https://studio.youtube.com/video/enS0IGj6Yos/edit |
+| 🎯 Vídeo Pitch | https://youtu.be/Jsow2t7mAt4  |
 | 💻 Repositório | https://github.com/Rcsilva05/orbitalgro |
 
 ---
@@ -267,10 +267,10 @@ Authorization: Bearer {token}
 ## 🎥 Vídeos
 
 ### Vídeo de Apresentação (até 10 minutos)
-> 🔗 *Link será adicionado após gravação*
+> 🔗 https://www.youtube.com/watch?v=enS0IGj6Yos
 
 ### Vídeo Pitch (até 3 minutos)
-> 🔗 *Link será adicionado após gravação*
+> 🔗 https://www.youtube.com/watch?v=Jsow2t7mAt4
 
 ---
 
