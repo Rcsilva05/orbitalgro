@@ -267,10 +267,10 @@ Authorization: Bearer {token}
 ## 🎥 Vídeos
 
 ### Vídeo de Apresentação (até 10 minutos)
-> 🔗 *Link será adicionado após gravação*
+> 🔗 [*Link será adicionado após gravação*](https://www.youtube.com/watch?v=enS0IGj6Yos)
 
 ### Vídeo Pitch (até 3 minutos)
-> 🔗 *Link será adicionado após gravação*
+> 🔗 [*Link será adicionado após gravação*](https://www.youtube.com/watch?v=Jsow2t7mAt4)
 
 ---
 
